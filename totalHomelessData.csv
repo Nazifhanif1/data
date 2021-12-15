@@ -1,8 +1,15 @@
-Year,People Left Homeless,Minors Left Homeless
-2021,263,136
-2020,940,353
-2019,629,341
-2018,365,147
-2017,375,188
-2016,1266,620
-2015,559,314
+Year,Type,Count
+2021,Adult,127
+2020,Adult,587
+2019,Adult,288
+2018,Adult,218
+2017,Adult,187
+2016,Adult,646
+2015,Adult,245
+2021,Minor,136
+2020,Minor,353
+2019,Minor,341
+2018,Minor,147
+2017,Minor,188
+2016,Minor,620
+2015,Minor,314
