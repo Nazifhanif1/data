@@ -1,8 +1,8 @@
-Year,Housing Units,People Left Homeless,District
-2021,3,5,Bethlehem
-2021,7,18,Hebron
-2021,1,0,Jenin
-2021,16,78,Jericho
-2021,6,20,Nablus
-2021,1,0,Qalqiliya
-2021,41,80,Tubas
+Year,Housing Units,People Left Homeless,District,Minors Left Homeless
+2021,3,5,Bethlehem,1
+2021,7,18,Hebron,12
+2021,1,0,Jenin,0
+2021,16,78,Jericho,33
+2021,6,20,Nablus,12
+2021,1,0,Qalqiliya,0
+2021,41,80,Tubas,45
